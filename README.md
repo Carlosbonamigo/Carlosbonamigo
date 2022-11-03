@@ -1,9 +1,9 @@
 # Sobre mim
 
 - 😄 Meu nome é Carlos 
-- 💬 sou estudante do ensino médio
+- 💬 Sou estudante do ensino médio
 - 🔭 Trabalho atualmente como tecelão
-- 🤔 procuro ajuda com musicas
+- 🤔 Procuro ajuda com musicas
 
 
 
