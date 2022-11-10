@@ -2,7 +2,7 @@
 
 - 😄 Meu nome é Carlos 
 - 💬 Sou estudante do ensino médio
-- 🔭 Trabalho atualmente como tecelão
+- 🔭 Não trabalho
 - 🤔 Procuro ajuda com musicas
 
 
